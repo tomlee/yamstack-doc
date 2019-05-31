@@ -1,0 +1,2 @@
+# yamstack-doc
+YamStack documentation
